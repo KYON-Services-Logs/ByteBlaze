@@ -101,7 +101,7 @@
 
 ## 🛠️ Installation
 
-1. Clone this repository using `git clone https://github.com/RainyXeon/ByteBlaze.git`
+1. Clone this repository using `git clone https://github.com/KYON-Services-Logs/ByteBlaze.git`
 2. run `cd ByteBlaze` to go to the **ByteBlaze** folder.
 3. Config files:
    - Note: All type of config must fill `TOKEN`, `OWNER_ID` and `NODES`
